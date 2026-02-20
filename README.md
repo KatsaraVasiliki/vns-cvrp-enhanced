@@ -122,10 +122,4 @@ DEPOT_SECTION
 EOF
 ```
 
----
 
-## References
-
-- Clarke, G. & Wright, J.W. (1964). Scheduling of Vehicles from a Central Depot to a Number of Delivery Points.
-- Hansen, P. & Mladenović, N. (2001). Variable neighborhood search: Principles and applications.
-- MIT OpenCourseWare — Clarke-Wright: https://web.mit.edu/urban_or_book/www/book/chapter6/6.4.12.html
