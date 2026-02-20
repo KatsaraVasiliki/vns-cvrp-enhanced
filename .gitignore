@@ -1,0 +1,16 @@
+# Ignore contents but keep folder structure
+data/instances/*
+data/solutions/*
+results/*
+
+# Keep the folders themselves
+!data/instances/.gitkeep
+!data/solutions/.gitkeep
+!results/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
